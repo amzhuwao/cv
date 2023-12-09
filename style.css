@@ -1,0 +1,19 @@
+img {
+    width: 100px;
+    height: 100px;
+    border-radius: 50px;
+    float: left;
+    margin-right: 20px;
+}
+
+a:hover {
+    color:peru;
+}
+
+hr {
+    size: 3;
+}
+
+thead {
+text-align: left;
+}
